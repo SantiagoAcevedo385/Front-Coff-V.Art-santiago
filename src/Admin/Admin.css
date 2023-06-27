@@ -1,0 +1,11 @@
+.Admin {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.Admin .appContent {
+	padding: 2rem;
+	width: 100%;
+	height: 100%;
+}
